@@ -1,6 +1,6 @@
 ### Jesse Vermeulen
 
-Creative frontend developer.
+Building amazing things for [Stypt](http://stypt.nl/)
 
 #### Languages
 
