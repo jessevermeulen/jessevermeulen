@@ -15,3 +15,5 @@ Creative frontend developer.
 #### Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermeulenjesse/)](https://www.linkedin.com/in/vermeulenjesse/)
+
+![Jesse Vermeulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessevermeulen&show_icons=true)
