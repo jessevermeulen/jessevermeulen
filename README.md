@@ -1,4 +1,4 @@
-### Jesse Vermeulen
+# Jesse Vermeulen
 
 #### Languages
 
