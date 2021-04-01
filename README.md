@@ -1,7 +1,5 @@
 ### Jesse Vermeulen
 
-Building amazing things for [Stypt](http://stypt.nl/)
-
 #### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
