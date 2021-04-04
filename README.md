@@ -1,7 +1,5 @@
 ### Jesse Vermeulen
 
-Creative designer and developer with an extensive passion for building captivating user experiences. Currently working full steam on the development of Stypt.
-
 #### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
