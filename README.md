@@ -12,4 +12,5 @@
 
 #### Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermeulenjesse/)](https://www.linkedin.com/in/vermeulenjesse/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermeulenjesse/)](https://www.linkedin.com/in/vermeulenjesse/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jesse_vermeulen)](https://twitter.com/jesse_vermeulen)
